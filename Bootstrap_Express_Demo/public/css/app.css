@@ -1,0 +1,13 @@
+html, body {
+	height: 100%;
+}
+.page-footer {
+	margin-top: 10px;
+	background-color: #343a40;
+	min-height: 100px;
+}
+.page-footer h4 {
+	color: #fff;
+	padding-top: 10px;
+	margin-bottom: 0;
+}
